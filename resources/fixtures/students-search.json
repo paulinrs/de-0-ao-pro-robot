@@ -1,0 +1,28 @@
+{   "word": "Weasley",
+    "total": 3,
+    "students": [
+        {
+            "name": "Hermione Weasley",
+            "email": "hermione.weasley@hogwarts.com",
+            "age": 42,
+            "weight": 53,
+            "feet_tall": 1.65
+        
+        },
+        {
+            "name": "Jorge Weasley",
+            "email": "jorge_weasley@hogwarts.com",
+            "age": 44,
+            "weight": 72,
+            "feet_tall": 1.71 
+        },
+        {
+            "name": "Ronald Weasley",
+            "email": "ronald.weasley@hogwarts.com",
+            "age": 42,
+            "weight": 72,
+            "feet_tall": 1.89   
+        }
+    ]
+   
+}

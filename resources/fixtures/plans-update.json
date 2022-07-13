@@ -1,0 +1,13 @@
+{   "before":{
+       "title": "Lufa Lufa",
+        "duration": "6",
+        "price": "29.90",
+        "total": "R$ 179.40"
+    },
+    "after": {
+        "title": "Rowena",
+        "duration": "2",
+        "price": "32.99",
+        "total": "R$ 65.98"
+    }
+}

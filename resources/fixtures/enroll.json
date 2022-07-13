@@ -1,0 +1,38 @@
+{   "days": 365,
+    "student": {
+        "name": "Susana Bones",
+        "email": "susana.bones@hogwarts.com",
+        "age": 41,
+        "weight": 73.5,
+        "feet_tall": 1.70
+    },
+    "plan":{
+        "title": "Basic Helga",
+        "duration": "12",
+        "price": "17.90"
+    },
+    "potter":{
+        "name": "Alvo Severo Potter",
+        "email": "alvo_potter@hogwarts.com",
+        "age": 17,
+        "weight": 72.5,
+        "feet_tall": 1.72
+    },
+    "smart":{
+        "title": "Black Slytherin",
+        "duration": "12",
+        "price": "44.90"
+    },
+    "cho_chang":{
+        "name": "Cho Chang",
+        "email": "cho_chang@hogwarts.com",
+        "age": 41,
+        "weight": 65.5,
+        "feet_tall": 1.70
+    },
+    "ravenclaw":{
+        "title":"Smart Ravenclaw",
+        "duration": "6",
+        "price": "22.90"
+    }    
+}
