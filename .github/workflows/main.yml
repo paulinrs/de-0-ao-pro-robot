@@ -31,4 +31,4 @@ jobs:
           python -m Browser.entry init
     - name: Run Tests
       run: |
-            TYPE=headless BROWSER=chromium robot -d ./logs tests|
+            TYPE=headless BROWSER=chromium robot -d ./logs tests\
